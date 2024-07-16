@@ -1,6 +1,6 @@
 # DiskRescue
 
-#英文
+# 英文
 ## Data Recovery Software (with Disk Cloning, Sector-Level Imaging, and RAID Support)
 * **R-Studio**
 * **DiskGenius**
@@ -20,7 +20,7 @@
 * **PCtools (DOS)**
 
 
-#中文
+# 中文
 ## 数据恢复软件 (支持磁盘克隆、扇区级镜像和 RAID 磁盘阵列)
 * **R-Studio**
 * **DiskGenius**
